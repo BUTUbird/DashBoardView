@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DashBoardView</string>
+    <string name="speed_up">加速</string>
+    <string name="speed_down">刹车</string>
+    <string name="speed_edit">速度</string>
+    <string name="speed_set">设置</string>
+</resources>
